@@ -8,3 +8,6 @@ To calculate the Power consumption at home, we use the different components (and
 This flow has been based on several inputs from different forums.
 
 
+You will have to adapt the code with correct multicast IP (Sunny Home Manager), device IP-address (inverter and battery) and login and username for inverter and battery as per comments in the flow.
+You can change the values you wish to read in the codes.
+Importantly, you might have to adapt the code for correct array values in the Inverter Decoding and Storage Decoding function nodes.
